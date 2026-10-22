@@ -37,7 +37,8 @@ void draw() {
 //Clicking swithches between grey and colourful
 //Source:Processing Foundation,Mouse Functions,https://processing.org/examples/mousefunctions.html
 void mousePressed(){
-  //Change between grey and colour when clicked
+  //Source:Prcessing Foundation,Logical Operators,https://processing.org/examples/logicaloperators.html
+  //!changes the boolean to the opposite value
   colourful=!colourful;
 }
  
